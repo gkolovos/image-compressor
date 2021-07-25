@@ -1,5 +1,5 @@
 # image-compressor
-image compressor using k-means algorithm
+Image compressor using k-means algorithm.
 This app can compress images using k-means algorithm. You can change the number of iterations(currently using 10 iterations). You can also change the K number and by changing it we change the set of colors used in the compressed image. This app can compress every kind of images (4k images, FHD image, SD image, etc).
 
 HOW TO RUN
